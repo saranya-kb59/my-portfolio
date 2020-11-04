@@ -1,0 +1,29 @@
+h1{display: inline;
+padding-left: 35px;
+padding-right: 75px;
+}
+.topnav {
+    width: 100%;
+ background-color: antiquewhite;
+ border-style: none;
+ border-width: 2px;
+ float: left;
+ }
+ a:link, a:visited{
+     width: 100%;
+     background-color: antiquewhite;
+     padding: 5px 20px;
+     text-align: center;
+     text-decoration: none;
+     display: inline;
+     margin-left: 10px;
+ }
+ a:hover, a:active{
+     background-color: tomato;}
+.home {
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url("food-processing.jpg");
+    background-repeat: no-repeat;
+}
